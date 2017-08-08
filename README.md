@@ -4,4 +4,8 @@ esto es otra linea
 
 Esto es otra linea adincional
 
+<<<<<<< HEAD
 Esto es otn
+=======
+Esto es otra modificacdsdsds
+>>>>>>> very-bad
